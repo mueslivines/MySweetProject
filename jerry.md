@@ -1,1 +1,1 @@
-Jerry is realy cool!
+Jerry is really cool!
