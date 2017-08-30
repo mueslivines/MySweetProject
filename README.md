@@ -1,4 +1,5 @@
 # MySweetProject
-a very nice project! PRs are accepted!
+
+a very cool project! PRs are accepted!
 
 check out [jerry](jerry)!
